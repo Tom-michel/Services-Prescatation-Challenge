@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Poppins:wght@400;500;600;700&display=swap');
+
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #08254f;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins';
+}
+
+.page {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 30px;
+}
+
+.page .box {
+    position: relative;
+    width: 280px;
+    border: #a58e97 solid 2px;
+    padding: 20px;
+}
+.page .box.no-border {
+    border: none;
+    padding: 0;
+}
+
+.page .box i {
+    color: #a58e97;
+}
+
+.page .box .content h5 {
+    font-size: 0.95rem;
+}
+.page .box .content p {
+    color: #b3a5aa;
+    font-size: 0.85rem;
+    margin-top: 10px;
+}
