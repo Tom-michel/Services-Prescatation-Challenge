@@ -28,7 +28,7 @@ body {
 .page .box {
     position: relative;
     width: 280px;
-    border: #a58e97 solid 2px;
+    border: #546a8f solid 2px;
     padding: 20px;
 }
 .page .box.no-border {
@@ -37,7 +37,7 @@ body {
 }
 
 .page .box i {
-    color: #a58e97;
+    color: #647ca5;
     font-size: 2rem;
     position: absolute;
     top: -1.1rem;

@@ -1,5 +1,5 @@
-# Services-Prescatation-Challenge
- Services Prescatation Challenge with HTML, CSS
+# Services-Presentation-Challenge
+ Services Presentation Challenge with HTML, CSS
 
 Source image :
 --------------------
